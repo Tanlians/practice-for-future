@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\86176\Desktop\c语言\vs.c\pb10\源.c(42,40): warning C4244: “=”: 从“int64_t”转换到“int32_t”，可能丢失数据
+  pb10.vcxproj -> C:\Users\86176\Desktop\c语言\vs.c\pb10\x64\Debug\pb10.exe
