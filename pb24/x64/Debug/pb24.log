@@ -1,0 +1,4 @@
+﻿  源.c
+C:\Users\86176\Desktop\c语言\vs.c\pb24\源.c(90,2): warning C4098: “main”:“void”函数返回值
+C:\Users\86176\Desktop\c语言\vs.c\pb24\源.c(56,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  pb24.vcxproj -> C:\Users\86176\Desktop\c语言\vs.c\pb24\x64\Debug\pb24.exe
