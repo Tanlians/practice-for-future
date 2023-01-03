@@ -1,0 +1,3 @@
+﻿  源.c
+C:\Users\86176\Desktop\c语言\vs.c\pb35\源.c(25,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  pb35.vcxproj -> C:\Users\86176\Desktop\c语言\vs.c\pb35\x64\Debug\pb35.exe
